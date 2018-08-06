@@ -2,6 +2,22 @@
 
 > A Vue.js project
 
+
+## Setting up the ENV variables
+
+1) Create a file named `.env` in the project directory.
+2) Specify the following environment variables in the following format with their appropriate values:
+
+```
+
+#.env
+
+  FLICKR_API_KEY='xxxxxxxxxxxxxxx'
+  PHOTOSET_ID='xxxxxxxxxxxxxxx'
+  FLICKR_USER_ID='xxxxxxxxxxxxxxx'
+  
+```
+
 ## Build Setup
 
 ``` bash
